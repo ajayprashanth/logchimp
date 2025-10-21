@@ -1,9 +1,9 @@
 <a href="https://logchimp.codecarrot.net/">
-  <img src="./.github/images/readme.png" alt="LogChimp" />
+  <img src="./.github/images/readme.png" alt="LogChimp dashboard screenshot" />
 </a>
 <br /><br />
 <p align="center">
-  Track your customers feedback to build better products with LogChimp
+  Track your customers' feedback to build better products with LogChimp
 </p>
 <h4 align="center">
   <a href="https://logchimp.codecarrot.net">Website</a>
@@ -59,7 +59,7 @@
 To get started you can read our [deployment docs](https://logchimp.codecarrot.net/docs/install) for self-hosting with
 Ubuntu or cloud hosting with one click deploy button.
 
-## Let's talk
+## Let's Talk
 
 <a href="https://cal.com/yashu/logchimp?utm_source=banner&utm_campaign=oss"><img alt="Book us with Cal.com" src="https://cal.com/book-with-cal-dark.svg" /></a>
 
@@ -75,8 +75,10 @@ community with these helpful resources.
 
 We welcome contributions! To ensure your work doesn't conflict with ongoing work, please:
 
-1. Read our [contributing guide](CONTRIBUTING.md)
+1. Read our [contributing guide](CONTRIBUTING.md)(https://cal.com/yashu/logchimp?utm_source=banner&utm_campaign=oss)
 2. **Discuss your ideas with us in public channels (GitHub/Discord) BEFORE starting development** (No private DMs)
 3. Get approval from a core team member
 
 This helps us align efforts and prevents duplicated or conflicting work.
+
+- Read our [deployment docs](https://logchimp.codecarrot.net/docs/getting-started)
